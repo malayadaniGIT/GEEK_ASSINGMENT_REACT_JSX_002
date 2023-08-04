@@ -1,0 +1,20 @@
+.div{
+    background-color: #d64747;
+    height: 55%;
+    width: 35%;
+    text-align: center;
+    color: white;
+}
+#outerdiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+h1{
+    margin-top: 100px;
+    font-size: xxx-large;
+}
+p{
+    font-size: large;
+}
