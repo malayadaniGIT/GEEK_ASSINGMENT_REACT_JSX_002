@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-## Projject_link-https://malayadanigit.github.io/GEEK_ASSINGMENT_REACT_JSX_002/
+## Project_link-https://malayadanigit.github.io/GEEK_ASSINGMENT_REACT_JSX_002/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
